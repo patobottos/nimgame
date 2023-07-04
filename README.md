@@ -4,4 +4,4 @@
 ### Final Project for IT Academy React Front End Web Developer Coding Bootcamp 
 Mentored by: Pablo Monteserín.
 
-Barcelona, august 2023.
+Barcelona, August 2023.
